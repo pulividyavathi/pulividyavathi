@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pulividyavathi
-- 👀 I’m interested in Software Development and Deep Learning.I am happy to share that coding has become my hobby.
-- 🌱 I’m currently learning Data Science tools and methods and Application Engineering Development at Northeastern University, Boston, US.
-- 💞️ I’m looking to collaborate on Data Science and Web development projects.
-- 📫 How to reach me Linkedin: pulividyavathi
+- 👋 Greetings! I am @pulividyavathi.
+- 👀  I have a keen interest in coding using Java, C#, and Python.Coding has turned into my passion and I enjoy it thoroughly. 
+- 🌱 Currently, I am pursuing a Masters's degree in Information Systems from Northeastern University, located in Boston, USA.
+- 💞️ I am enthusiastic about collaborating on projects related to Data Science and Web Development.
+- 📫 You can reach out to me on LinkedIn, my profile name is pulividyavathi.
 
 <!---
 pulividyavathi/pulividyavathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
